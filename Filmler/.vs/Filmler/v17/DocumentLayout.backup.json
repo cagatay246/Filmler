@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagat\\source\\repos\\Filmler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4683C8CF-E5FD-427F-8E48-896A22BEF239}|Filmler\\Filmler.csproj|c:\\users\\cagat\\source\\repos\\filmler\\filmler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4683C8CF-E5FD-427F-8E48-896A22BEF239}|Filmler\\Filmler.csproj|solutionrelative:filmler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\Filmler\\Filmler\\Program.cs",
+              "RelativeDocumentMoniker": "Filmler\\Program.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\Filmler\\Filmler\\Program.cs",
+              "RelativeToolTip": "Filmler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:36:00.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
